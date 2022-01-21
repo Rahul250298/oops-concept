@@ -1,0 +1,8 @@
+C:\Users\uknwr\oops concept\oops concept\oops concept\obj\Debug\oops concept.csproj.AssemblyReference.cache
+C:\Users\uknwr\oops concept\oops concept\oops concept\obj\Debug\oops concept.csproj.SuggestedBindingRedirects.cache
+C:\Users\uknwr\oops concept\oops concept\oops concept\obj\Debug\oops concept.csproj.CoreCompileInputs.cache
+C:\Users\uknwr\oops concept\oops concept\oops concept\bin\Debug\oops concept.exe.config
+C:\Users\uknwr\oops concept\oops concept\oops concept\bin\Debug\oops concept.exe
+C:\Users\uknwr\oops concept\oops concept\oops concept\bin\Debug\oops concept.pdb
+C:\Users\uknwr\oops concept\oops concept\oops concept\obj\Debug\oops concept.exe
+C:\Users\uknwr\oops concept\oops concept\oops concept\obj\Debug\oops concept.pdb

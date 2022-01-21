@@ -8,37 +8,37 @@ namespace oops_concept.polymorphism
 {
     public class Country
     {
-        public void special()
+        public virtual void special()
         {
-            Console.WriteLine("Humans look beauty in their way");
+            Console.WriteLine("Top Rankers");
         }
     }
     class India : Country
     {
-         public void special()
+         public override void special()
         {
-            Console.WriteLine("population");
+            Console.WriteLine("India:population");
         }
     }
     class Us: Country
     {
-        public void special()
+        public override void special()
         {
-            Console.WriteLine("Tech Giants");
+            Console.WriteLine("Us:Tech Giants");
         }
     }
     class  China : Country
     {
-        public void special()
+        public override void special()
         {
-            Console.WriteLine("Super Power");
+            Console.WriteLine("China: Super Power");
         }
     }
     class Newzealand:Country
     {
-        public void special()
+        public override void special()
         {
-            Console.WriteLine("Womens Safety");
+            Console.WriteLine("Newzealand:Womens Safety");
 
         }
     }
